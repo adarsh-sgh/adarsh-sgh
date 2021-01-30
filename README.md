@@ -1,11 +1,13 @@
 ### Hi there 👋
-### Lakki Is Excited For You Visit
+### Lakki Is Excited On Your Visit
 ### ⚙️ &nbsp;GitHub Analytics
 
-<a href="https://github.com/avishrantssh">
+<a href="https://github.com/lkiThakur">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lkiThakur&theme=dracula&include_all_commits=true&count_private=true&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkiThakur&theme=dracula&layout=compact&count_private=false" />
 </a>
+<br>
+[![Visits Badge](https://badges.pufler.dev/visits/lkiThakur/lkiThakur)](https://badges.pufler.dev)
 <!--
 **lkiThakur/lkiThakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
