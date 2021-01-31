@@ -25,7 +25,9 @@
 <a href="facebook.com/singh.adarsh.dev">
   <img alt="Lakki on FB" width="22px" src="icons/facebook.svg" />
 </a>
-<br>
+<br><br>
+ <h3>I like Exchanging Jokes; here's one for you</h3><br>
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" style="margin:0px" /><br>
 <img alt="Thanks For Visit"  width='589px' height='62px' src='images/thanks.png'><br>
 P.S.- My Formal Name Is :"𝐀𝐃𝐀𝐑𝐒𝐇 𝐒𝐈𝐍𝐆𝐇"
 
