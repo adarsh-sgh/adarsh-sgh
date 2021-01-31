@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lkiThakur&theme=dracula&include_all_commits=true&count_private=true&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkiThakur&theme=dracula&layout=compact&count_private=false" />
 </a><br>
-<img src="https://badges.pufler.dev/repos/lkiThakur" alt="Repo Count"><img src="https://badges.pufler.dev/commits/yearly/lkiThakur" alt="Repo Commits"><img src="https://badges.pufler.dev/visits/lkiThakur/lkiThakur" alt="Repo Views">
+<div><img src="https://badges.pufler.dev/repos/lkiThakur" alt="Repo Count">&nbsp<img src="https://badges.pufler.dev/commits/yearly/lkiThakur" alt="Repo Commits">&nbsp<img src="https://badges.pufler.dev/visits/lkiThakur/lkiThakur" alt="Repo Views"></div>
 <br>
 <h3 style="color:green">🛠 &nbsp;Tech Stack</h3>
 
@@ -16,7 +16,7 @@
 ![Node.js](https://img.shields.io/badge/NodeJs-black?&style=for-the-badge&logo=Node.js&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-grey?&style=for-the-badge&logo=MongoDB&logoColor=green)&nbsp;
 ![Express](https://img.shields.io/badge/Express.js-grey?&style=for-the-badge&logo=ExpressJs&logoColor=white)&nbsp;
-![Socket.io](https://img.shields.io/badge/Socket.io-grey?&style=for-the-badge&logo=ExpressJs&logoColor=white)&nbsp;
+![Socket.io](https://img.shields.io/badge/Socket.io-grey?&style=for-the-badge&logo=Socket.io&logoColor=white)&nbsp;
 
 ### We Can 🤝🏼 On 
 <a href="https://www.linkedin.com/in/thakurLki/">
