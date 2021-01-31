@@ -5,9 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lkiThakur&theme=dracula&include_all_commits=true&count_private=true&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkiThakur&theme=dracula&layout=compact&count_private=false" />
 </a><br>
-<img src="https://badges.pufler.dev/repos/lkiThakur" alt="Repo Count">
-<img src="https://badges.pufler.dev/commits/yearly/lkiThakur" alt="Repo Commits">
-<img src="https://badges.pufler.dev/visits/lkiThakur/lkiThakur" alt="Repo Views">😢
+<img src="https://badges.pufler.dev/repos/lkiThakur" alt="Repo Count"><img src="https://badges.pufler.dev/commits/yearly/lkiThakur" alt="Repo Commits"><img src="https://badges.pufler.dev/visits/lkiThakur/lkiThakur" alt="Repo Views">
 <br>
 <h3 style="color:green">🛠 &nbsp;Tech Stack</h3>
 
