@@ -22,7 +22,7 @@
 <a href="https://www.linkedin.com/in/thakurLki/">
   <img alt="Lakki on LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.facebook.com/singh.adarsh.dev">
+<a href="https://www.facebook.com/singh.adarsh.dev" target='_blank'>
   <img alt="Lakki on FB" width="22px" src="icons/facebook.svg" />
 </a>
 <br><br>
