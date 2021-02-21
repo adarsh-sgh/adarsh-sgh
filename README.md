@@ -25,11 +25,20 @@
 <a href="https://www.facebook.com/singh.adarsh.dev" target='_blank'>
   <img alt="Lakki on FB" width="22px" src="icons/facebook.svg" />
 </a>
+<a href="https://www.instagram.com/sgh.lakki/" target='_blank'>
+  <img alt="Lakki on insta" width="22px" src="icons/instagram.svg" />
+</a>
+<a href="mailto:singh.adarsh.dev@gmail.com">
+  <img alt="mail to lakki" width="22px" src="icons/gmail.svg" />
+</a>
 <br><br>
  <h3>I like Exchanging Jokes; here's one for you😀</h3><br>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" style="margin:0px" /><br>
 <img alt="Thanks For Visit"  width='589px' height='62px' src='images/thanks.png'><br>
-P.S.- My Formal Name Is :<q><b>ADARSH SINGH</b></q>
+P.S. <br>
+&nbsp - My Formal Name Is :<q><b>ADARSH SINGH</b></q>. <br>
+&nbsp - I will be glad if you contact me for collaboration. <br>
+&nbsp - Contributions welcomed on all my repositories.
 <!--
 **lkiThakur/lkiThakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
