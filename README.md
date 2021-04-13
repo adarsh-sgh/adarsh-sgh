@@ -18,7 +18,7 @@
 ![Express](https://img.shields.io/badge/Express.js-grey?&style=for-the-badge&logo=ExpressJs&logoColor=white)&nbsp;
 ![Socket.io](https://img.shields.io/badge/Socket.io-grey?&style=for-the-badge&logo=Socket.io&logoColor=white)&nbsp;
 ![Puppeteer](https://img.shields.io/badge/puppeteer-grey?&style=for-the-badge&logo=puppeteer&logoColor=white)&nbsp;
-
+<p > <a href="http://lkiThakur.vercel.app/"><img src="https://github-profile-trophy.vercel.app/?username=lkiThakur&theme=monokai" alt="lkiThakur" /></a> </p>
 ### We Can 🤝🏼 On 
 <a href="https://www.linkedin.com/in/thakurLki/">
   <img alt="Lakki on LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -32,6 +32,7 @@
 <a href="mailto:singh.adarsh.dev@gmail.com">
   <img alt="mail to lakki" width="22px" src="icons/gmail.svg" />
 </a>
+
 <br><br>
  <h3>I like Exchanging Jokes; here's one for you😀</h3><br>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" style="margin:0px" /><br>
@@ -41,10 +42,6 @@ P.S. <br>
 &nbsp - I will be glad if you contact me for collaboration. <br>
 &nbsp - Contributions welcomed on all my repositories.
 <!--
-**lkiThakur/lkiThakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
