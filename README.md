@@ -25,19 +25,19 @@
 
 ### We Can 🤝🏼 On 
 <a href="https://www.linkedin.com/in/thakurLki/">
-  <img alt="Lakki on LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img alt="Lakki on LinkedIN" width="22px" style="margin: 10px;" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.facebook.com/singh.adarsh.dev" target='_blank'>
-  <img alt="Lakki on FB" width="22px" src="icons/facebook.svg" />
+  <img alt="Lakki on FB" width="22px" style="margin: 10px;" src="icons/facebook.svg" />
 </a>
 <a href="https://www.instagram.com/sgh.lakki/" target='_blank'>
-  <img alt="Lakki on insta" width="22px" src="icons/instagram.svg" />
+  <img alt="Lakki on insta" width="22px" style="margin: 10px;" src="icons/instagram.svg" />
 </a>
 <a href="mailto:singh.adarsh.dev@gmail.com">
-  <img alt="mail to lakki" width="22px" src="icons/gmail.svg" />
+  <img alt="mail to lakki" width="22px" style="margin: 10px;" src="icons/gmail.svg" />
 </a>
 
-<br><br>
+<br>
  <h3>I like Exchanging Jokes; here's one for you😀</h3><br>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" style="margin:0px" /><br>
 <img alt="Thanks For Visit"  width='589px' height='62px' src='images/thanks.png'><br>
