@@ -18,7 +18,8 @@
 ![Express](https://img.shields.io/badge/Express.js-grey?&style=for-the-badge&logo=ExpressJs&logoColor=white)&nbsp;
 ![Socket.io](https://img.shields.io/badge/Socket.io-grey?&style=for-the-badge&logo=Socket.io&logoColor=white)&nbsp;
 ![Puppeteer](https://img.shields.io/badge/puppeteer-grey?&style=for-the-badge&logo=puppeteer&logoColor=white)&nbsp;
-<p ><a href="#"> <img src="https://github-profile-trophy.vercel.app/?username=lkiThakur&theme=monokai" alt="lkiThakur" /></a></p>
+<p ><a href="#"> <img src="https://github-profile-trophy.vercel.app/?username=lkiThakur&theme=monokai" alt="lkiThakur" /></a></p>  
+
 ### We Can 🤝🏼 On 
 <a href="https://www.linkedin.com/in/thakurLki/">
   <img alt="Lakki on LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
