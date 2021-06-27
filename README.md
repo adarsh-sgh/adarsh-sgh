@@ -6,6 +6,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkiThakur&theme=dracula&layout=compact&count_private=false" />
 </a><br>
 <div><img src="https://badges.pufler.dev/repos/lkiThakur" alt="Repo Count">&nbsp<img src="https://badges.pufler.dev/commits/yearly/lkiThakur" alt="Repo Commits">&nbsp<img src="https://badges.pufler.dev/visits/lkiThakur/lkiThakur" alt="Repo Views"></div>
+[View Detailed Analysis](https://profile-summary-for-github.com/user/lkiThakur)
+[]
 <br>
 <h3 style="color:green">🛠 &nbsp;Tech Stack</h3>
 
