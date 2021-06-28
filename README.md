@@ -9,21 +9,21 @@
 <a href="https://profile-summary-for-github.com/user/lkiThakur" style="color: coral;text-decoration: none;">View Detailed Analysis</a>
 <br>
 <h3 style="color:green">🛠 &nbsp;Tech Stack</h3>
-<!-- TODO link skill to projects in that skill ,e.g https://github.com/lkiThakur?utf8=%E2%9C%93&tab=repositories&q=&type=source&language=JavaScript -->
-<a href="https://github.com/lkiThakur?tab=repositories&q=&type=&language=javascript&sort=" ><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-red?logo=JavaScript&style=for-the-badge" alt=""></a>
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&amp;style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML">&nbsp;<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&amp;style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS">&nbsp;
-  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&amp;style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git">&nbsp;
-  <img src="https://img.shields.io/badge/NodeJs-black?&amp;style=for-the-badge&amp;logo=Node.js&amp;logoColor=white" alt="Node.js">&nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-red?&amp;style=for-the-badge&amp;logo=MongoDB&amp;logoColor=green" alt="MongoDB">&nbsp;
-  <img src="https://img.shields.io/badge/Express.js-grey?&amp;style=for-the-badge&amp;logo=ExpressJs&amp;logoColor=white" alt="Express">&nbsp;
-  <img src="https://img.shields.io/badge/Socket.io-grey?&amp;style=for-the-badge&amp;logo=Socket.io&amp;logoColor=white" alt="Socket.io">&nbsp;
-  <img src="https://img.shields.io/badge/puppeteer-grey?&amp;style=for-the-badge&amp;logo=puppeteer&amp;logoColor=white" alt="Puppeteer">&nbsp;
-  <img src="https://img.shields.io/badge/typescript-blue?&amp;style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="typescript">&nbsp;
-  <img src="https://img.shields.io/badge/angular-grey?&amp;style=for-the-badge&amp;logo=angular&amp;logoColor=white" alt="Angular">&nbsp;
-  <img src="https://img.shields.io/badge/Nest-grey?&amp;style=for-the-badge&amp;logo=nestjs&amp;logoColor=red" alt="NestJS">&nbsp;
-  <img src="https://img.shields.io/badge/electron-grey?&amp;style=for-the-badge&amp;logo=electron&amp;logoColor=white" alt="electron">&nbsp;</p>
-  
-<a href="#"> <img src="https://github-profile-trophy.vercel.app/?username=lkiThakur&theme=monokai" alt="lkiThakur" /></a></p>  
+
+![JS](https://img.shields.io/badge/JavaScript-red?logo=JavaScript&style=for-the-badge)&nbsp;
+![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/NodeJs-black?&style=for-the-badge&logo=Node.js&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-red?&style=for-the-badge&logo=MongoDB&logoColor=green)&nbsp;
+![Express](https://img.shields.io/badge/Express.js-grey?&style=for-the-badge&logo=ExpressJs&logoColor=white)&nbsp;
+![Socket.io](https://img.shields.io/badge/Socket.io-grey?&style=for-the-badge&logo=Socket.io&logoColor=white)&nbsp;
+![Puppeteer](https://img.shields.io/badge/puppeteer-grey?&style=for-the-badge&logo=puppeteer&logoColor=white)&nbsp;
+![typescript](https://img.shields.io/badge/typescript-blue?&style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Angular](https://img.shields.io/badge/angular-grey?&style=for-the-badge&logo=angular&logoColor=white)&nbsp;
+![NestJS](https://img.shields.io/badge/Nest-grey?&style=for-the-badge&logo=nestjs&logoColor=red)&nbsp;
+![electron](https://img.shields.io/badge/electron-grey?&style=for-the-badge&logo=electron&logoColor=white)&nbsp;
+<p ><a href="#"> <img src="https://github-profile-trophy.vercel.app/?username=lkiThakur&theme=monokai" alt="lkiThakur" /></a></p>  
 
 ### We Can 🤝🏼 On 
 <a href="https://www.linkedin.com/in/thakurLki/">
