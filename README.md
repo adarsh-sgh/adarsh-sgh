@@ -11,8 +11,7 @@
 <h3 style="color:green">🛠 &nbsp;Tech Stack</h3>
 <!-- TODO link skill to projects in that skill ,e.g https://github.com/lkiThakur?utf8=%E2%9C%93&tab=repositories&q=&type=source&language=JavaScript -->
 <a href="https://github.com/lkiThakur?tab=repositories&q=&type=&language=javascript&sort=" ><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-red?logo=JavaScript&style=for-the-badge" alt=""></a>
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&amp;style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML">&nbsp;
-  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&amp;style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS">&nbsp;
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&amp;style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML">&nbsp;<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&amp;style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS">&nbsp;
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&amp;style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git">&nbsp;
   <img src="https://img.shields.io/badge/NodeJs-black?&amp;style=for-the-badge&amp;logo=Node.js&amp;logoColor=white" alt="Node.js">&nbsp;
   <img src="https://img.shields.io/badge/MongoDB-red?&amp;style=for-the-badge&amp;logo=MongoDB&amp;logoColor=green" alt="MongoDB">&nbsp;
