@@ -8,7 +8,8 @@
 <div><img src="https://badges.pufler.dev/repos/lkiThakur" alt="Repo Count">&nbsp<img src="https://badges.pufler.dev/commits/yearly/lkiThakur" alt="Repo Commits">&nbsp<img src="https://badges.pufler.dev/visits/lkiThakur/lkiThakur" alt="Repo Views"></div>
 <a href="https://profile-summary-for-github.com/user/lkiThakur" style="color: coral;text-decoration: none;">View Detailed Analysis</a>
 <br>
-<h3 style="color:green">🛠 &nbsp;Tech Stack</h3>
+<hr> 
+<h3 style="color:green">🛠 &nbsp;Tech Stack</h3> 
 
 ![JS](https://img.shields.io/badge/JavaScript-red?logo=JavaScript&style=for-the-badge)&nbsp;
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -24,8 +25,10 @@
 ![NestJS](https://img.shields.io/badge/Nest-grey?&style=for-the-badge&logo=nestjs&logoColor=red)&nbsp;
 ![electron](https://img.shields.io/badge/electron-grey?&style=for-the-badge&logo=electron&logoColor=white)&nbsp;
 <p ><a href="#"> <img src="https://github-profile-trophy.vercel.app/?username=lkiThakur&theme=monokai" alt="lkiThakur" /></a></p>  
+<hr> 
 
-### We Can 🤝🏼 On 
+### We Can 🤝🏼 On  
+
 <a href="https://www.linkedin.com/in/thakurLki/">
   <img alt="Lakki on LinkedIN" width="22px" style="margin: 10px;" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -38,11 +41,12 @@
 <a href="mailto:singh.adarsh.dev@gmail.com">
   <img alt="mail to lakki" width="22px" style="margin: 10px;" src="icons/gmail.svg" />
 </a>
-
+<hr> 
 <br>
  <h3>I like Exchanging Jokes; here's one for you😀</h3><br>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" style="margin:0px" /><br>
 <img alt="Thanks For Visit"  width='589px' height='62px' src='images/thanks.png'><br>
+<hr> 
 P.S. <br>
 &nbsp - My Formal Name Is :<q><b>ADARSH SINGH</b></q>. <br>
 &nbsp - I will be glad if you contact me for collaboration. <br>
