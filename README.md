@@ -1,3 +1,5 @@
+## for the sake of consistency I'm planning to have a github username derived from my formal name: Adarsh Singh
+### My previous repo was named and built around the name lucky (lucky , lakki ,lki ) lkiThakur
 ### Lakki Is **Excited On Your Visit** 😁
 
 ### ⚙️ &nbsp;GitHub Analytics
