@@ -51,5 +51,3 @@
 <hr> 
 P.S. <br>
 &nbsp - My Formal Name Is :<q><b>ADARSH SINGH</b></q>. <br>
-&nbsp - I will be glad if you contact me for collaboration. <br>
-&nbsp - Contributions welcomed on all my repositories.
