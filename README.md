@@ -23,10 +23,10 @@
 ![typescript](https://img.shields.io/badge/typescript-blue?&style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Angular](https://img.shields.io/badge/angular-grey?&style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 ![react](https://img.shields.io/badge/react-grey?&style=for-the-badge&logo=react&logoColor=white)&nbsp;
-
 ![NestJS](https://img.shields.io/badge/Nest-grey?&style=for-the-badge&logo=nestjs&logoColor=red)&nbsp;
 ![electron](https://img.shields.io/badge/electron-grey?&style=for-the-badge&logo=electron&logoColor=white)&nbsp;
-<p ><a href="#"> <img src="https://github-profile-trophy.vercel.app/?username=lkiThakur&theme=monokai" alt="lkiThakur" /></a></p>  
+![fiebase](https://img.shields.io/badge/firebase-grey?&style=for-the-badge&logo=firebase&logoColor=yellow)&nbsp;
+<p ><a href="https://lkiThakur.github.io"> <img src="https://github-profile-trophy.vercel.app/?username=lkiThakur&theme=monokai" alt="lkiThakur" /></a></p>  
 <hr> 
 
 ### We Can 🤝🏼 On  
