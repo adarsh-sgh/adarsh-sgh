@@ -1,12 +1,12 @@
 ### Lakki Is **Excited On Your Visit** 😁
 
 ### ⚙️ &nbsp;GitHub Analytics
-<a href="https://github.com/lkiThakur">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lkiThakur&theme=dracula&include_all_commits=true&count_private=true&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkiThakur&theme=dracula&layout=compact&count_private=false" />
+<a href="https://github.com/adarsh-sgh">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adarsh-sgh&theme=dracula&include_all_commits=true&count_private=true&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-sgh&theme=dracula&layout=compact&count_private=false" />
 </a><br>
-<div><img src="https://badges.pufler.dev/repos/lkiThakur" alt="Repo Count">&nbsp<img src="https://badges.pufler.dev/commits/yearly/lkiThakur" alt="Repo Commits">&nbsp<img src="https://badges.pufler.dev/visits/lkiThakur/lkiThakur" alt="Repo Views"></div>
-<a href="https://profile-summary-for-github.com/user/lkiThakur" style="color: coral;text-decoration: none;">View Detailed Analysis</a>
+<div><img src="https://badges.pufler.dev/repos/adarsh-sgh" alt="Repo Count">&nbsp<img src="https://badges.pufler.dev/commits/yearly/adarsh-sgh" alt="Repo Commits">&nbsp<img src="https://badges.pufler.dev/visits/adarsh-sgh/adarsh-sgh" alt="Repo Views"></div>
+<a href="https://profile-summary-for-github.com/user/adarsh-sgh" style="color: coral;text-decoration: none;">View Detailed Analysis</a>
 <br>
 <hr> 
 <h3 style="color:green">🛠 &nbsp;Tech Stack</h3> 
@@ -26,7 +26,7 @@
 ![NestJS](https://img.shields.io/badge/Nest-grey?&style=for-the-badge&logo=nestjs&logoColor=red)&nbsp;
 ![electron](https://img.shields.io/badge/electron-grey?&style=for-the-badge&logo=electron&logoColor=white)&nbsp;
 ![fiebase](https://img.shields.io/badge/firebase-grey?&style=for-the-badge&logo=firebase&logoColor=yellow)&nbsp;
-<p ><a href="https://lkiThakur.github.io"> <img src="https://github-profile-trophy.vercel.app/?username=lkiThakur&theme=monokai" alt="lkiThakur" /></a></p>  
+<p ><a href="https://adarsh-sgh.github.io"> <img src="https://github-profile-trophy.vercel.app/?username=adarsh-sgh&theme=monokai" alt="adarsh-sgh" /></a></p>  
 <hr> 
 
 ### We Can 🤝🏼 On  
