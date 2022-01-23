@@ -11,6 +11,8 @@
 <hr> 
 <h3 style="color:green">🛠 &nbsp;Tech Stack</h3> 
 
+<!-- skillsStart -->
+
 ![JS](https://img.shields.io/badge/JavaScript-red?logo=JavaScript&style=for-the-badge)&nbsp;
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -26,6 +28,8 @@
 ![NestJS](https://img.shields.io/badge/Nest-grey?&style=for-the-badge&logo=nestjs&logoColor=red)&nbsp;
 ![electron](https://img.shields.io/badge/electron-grey?&style=for-the-badge&logo=electron&logoColor=white)&nbsp;
 ![fiebase](https://img.shields.io/badge/firebase-grey?&style=for-the-badge&logo=firebase&logoColor=yellow)&nbsp;
+
+<!-- skillsEnd -->
 <p ><a href="https://adarsh-sgh.github.io"> <img src="https://github-profile-trophy.vercel.app/?username=adarsh-sgh&theme=monokai" alt="adarsh-sgh" /></a></p>  
 <hr> 
 
