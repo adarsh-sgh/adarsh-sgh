@@ -35,13 +35,13 @@
 
 ### We Can 🤝🏼 On  
 
-<a href="https://www.linkedin.com/in/thakurLki/">
+<a href="https://www.linkedin.com/in/adarsh-sgh/">
   <img alt="Lakki on LinkedIN" width="22px" style="margin: 10px;" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.facebook.com/singh.adarsh.dev" target='_blank'>
   <img alt="Lakki on FB" width="22px" style="margin: 10px;" src="icons/facebook.svg" />
 </a>
-<a href="https://www.instagram.com/sgh.lakki/" target='_blank'>
+<a href="https://www.instagram.com/adarsh.sgh/" target='_blank'>
   <img alt="Lakki on insta" width="22px" style="margin: 10px;" src="icons/instagram.svg" />
 </a>
 <a href="mailto:singh.adarsh.dev@gmail.com">
@@ -54,6 +54,5 @@
 <img alt="Thanks For Visit"  width='589px' height='62px' src='images/thanks.png'><br>
 <hr> 
 P.S. <br>
-&nbsp - My Formal Name Is :<q><b>ADARSH SINGH</b></q>. <br>
 &nbsp - I will be glad if you contact me for collaboration. <br>
 &nbsp - Contributions welcomed on all my repositories.
