@@ -5,7 +5,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adarsh-sgh&theme=dracula&include_all_commits=true&count_private=true&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-sgh&theme=dracula&layout=compact&count_private=false" />
 </a><br>
-<div><img src="https://badges.pufler.dev/repos/adarsh-sgh" alt="Repo Count">&nbsp<img src="https://badges.pufler.dev/commits/yearly/adarsh-sgh" alt="Repo Commits">&nbsp<img src="https://badges.pufler.dev/visits/adarsh-sgh/adarsh-sgh" alt="Repo Views"></div>
 <a href="https://profile-summary-for-github.com/user/adarsh-sgh" style="color: coral;text-decoration: none;">View Detailed Analysis</a>
 <br>
 <hr> 
@@ -36,10 +35,11 @@
 ### We Can 🤝🏼 On  
 
 <a href="https://www.linkedin.com/in/adarsh-sgh/">
+
   <img alt="Lakki on LinkedIN" width="22px" style="margin: 10px;" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.facebook.com/singh.adarsh.dev" target='_blank'>
-  <img alt="Lakki on FB" width="22px" style="margin: 10px;" src="icons/facebook.svg" />
+<a href="https://twitter.com/AdarshSgh" target='_blank'>
+  <img alt="Lakki on twitter" width="22px" style="margin: 10px;" src="icons/twitter.svg" />
 </a>
 <a href="https://www.instagram.com/adarsh.sgh/" target='_blank'>
   <img alt="Lakki on insta" width="22px" style="margin: 10px;" src="icons/instagram.svg" />
