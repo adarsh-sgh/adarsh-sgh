@@ -23,7 +23,7 @@
 ![Puppeteer](https://img.shields.io/badge/puppeteer-grey?&style=for-the-badge&logo=puppeteer&logoColor=white)&nbsp;
 ![typescript](https://img.shields.io/badge/typescript-blue?&style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![react](https://img.shields.io/badge/react-grey?&style=for-the-badge&logo=react&logoColor=white)&nbsp;
-![NestJS](https://img.shields.io/badge/Nest-grey?&style=for-the-badge&logo=nestjs&logoColor=red)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=Next.js&style=for-the-badge)&nbsp;
 ![electron](https://img.shields.io/badge/electron-grey?&style=for-the-badge&logo=electron&logoColor=white)&nbsp;
 ![fiebase](https://img.shields.io/badge/firebase-grey?&style=for-the-badge&logo=firebase&logoColor=yellow)&nbsp;
 
@@ -52,6 +52,3 @@
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" style="margin:0px" /><br>
 <img alt="Thanks For Visit"  width='589px' height='62px' src='images/thanks.png'><br>
 <hr> 
-P.S. <br>
-&nbsp - I will be glad if you contact me for collaboration. <br>
-&nbsp - Contributions welcomed on all my repositories.
