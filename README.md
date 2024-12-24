@@ -1,4 +1,4 @@
-### Lakki Is **Excited On Your Visit** 😁
+### Adarsh Is **Excited On Your Visit** 😁
 
 ### ⚙️ &nbsp;GitHub Analytics
 <a href="https://github.com/adarsh-sgh">
@@ -35,7 +35,7 @@
 
 <a href="https://www.linkedin.com/in/adarsh-sgh/">
 
-  <img alt="Lakki on LinkedIN" width="22px" style="margin: 10px;" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img alt="Lakki on LinkedIN" width="22px" style="margin: 10px;" src="icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/AdarshSgh" target='_blank'>
   <img alt="Lakki on twitter" width="22px" style="margin: 10px;" src="icons/twitter.svg" />
@@ -43,7 +43,7 @@
 <a href="https://www.instagram.com/adarsh.sgh/" target='_blank'>
   <img alt="Lakki on insta" width="22px" style="margin: 10px;" src="icons/instagram.svg" />
 </a>
-<a href="mailto:singh.adarsh.dev@gmail.com">
+<a href="mailto:adarsh.sgh3@gmail.com">
   <img alt="mail to lakki" width="22px" style="margin: 10px;" src="icons/gmail.svg" />
 </a>
 <hr> 
